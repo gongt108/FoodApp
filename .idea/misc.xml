@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/card_background.xml" value="0.235" />
+        <entry key="app/src/main/res/drawable/cat_background.xml" value="0.235" />
+        <entry key="app/src/main/res/drawable/cat_background2.xml" value="0.235" />
+        <entry key="app/src/main/res/drawable/cat_background3.xml" value="0.235" />
+        <entry key="app/src/main/res/drawable/cat_background4.xml" value="0.235" />
+        <entry key="app/src/main/res/drawable/cat_background5.xml" value="0.235" />
+        <entry key="app/src/main/res/drawable/home_button.xml" value="0.235" />
+        <entry key="app/src/main/res/drawable/orange_button.xml" value="0.1635" />
+        <entry key="app/src/main/res/drawable/orange_light_banner.xml" value="0.191" />
+        <entry key="app/src/main/res/drawable/viewholder_popular.xml" value="0.235" />
+        <entry key="app/src/main/res/layout/activity_cart.xml" value="0.2543822146216332" />
+        <entry key="app/src/main/res/layout/activity_intro.xml" value="0.19628286491387126" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25345345345345344" />
+        <entry key="app/src/main/res/layout/activity_show_detail.xml" value="0.20772399902343752" />
+        <entry key="app/src/main/res/layout/fragment_add_item.xml" value="0.1931097008159565" />
+        <entry key="app/src/main/res/layout/viewholder_cart.xml" value="0.2721771240234375" />
+        <entry key="app/src/main/res/layout/viewholder_category.xml" value="0.25345345345345344" />
+        <entry key="app/src/main/res/layout/viewholder_popular.xml" value="1.247044262961477" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.25345345345345344" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
